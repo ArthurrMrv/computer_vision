@@ -55,4 +55,4 @@ A robust inference flow ensures maximum accuracy:
    ```bash
    pip install -r requirements.txt --upgrade
    ```
-2. **Run Notebooks**: Start with `finetune_swin_emoji_V17.ipynb` for the most recent implementation.
+2. **Run Notebooks**: Start with `finetune_swin_emoji_V16.ipynb` for the most efficient implementation.
